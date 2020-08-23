@@ -1,0 +1,45 @@
+.container {
+    display: flex;
+    min-height: 100vh;
+}
+
+.left {
+    width: 200px;
+    min-height: 100vh;
+    padding-top: 20px;
+    /*background: #2C6693;*/
+    background: rgb(44,102,147);
+    background: linear-gradient(247deg, rgba(44,102,147,1) 40%, rgba(0,0,0,1) 159%);
+}
+
+.right {
+    flex-grow: 1;
+    min-height: 100vh;
+    padding: 26px 16px 0;
+    background-image: url("https://www.ppt-backgrounds.net/thumbs/light-grey-curves-graphic-presentation-backgrounds.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+.containerhome {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 1rem;
+}
+
+.img2 {
+    display: block;
+    width: auto;
+    height: auto;
+    max-width: 80vw;
+    min-width: 10vw;
+    min-height: 10vw;
+    
+    margin: 20px auto;
+  }
