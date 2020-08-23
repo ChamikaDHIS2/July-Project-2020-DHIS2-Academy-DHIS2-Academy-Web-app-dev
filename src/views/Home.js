@@ -21,7 +21,7 @@ export const Home = () => (
                             {i18n.t('Hello {{name}}', { name: data.me.name })}
                         </h1>
                         <h3>{i18n.t('Welcome to DHIS2!')}</h3>
-                        <img className={classes.img2} src="webappdevsplash.png"  alt="splash"></img>
+                        <img className={classes.img2} src="http://slchaem.lk/web-app/webappdevsplash.png"  alt="splash"></img>
                         <h3>{('Developed for DHIS2 Academy 2020 (web-app-dev)')}</h3>
                         <h2>{('Chamika Senanayake')}</h2>
                 <h4>{('E: senanayake.ch2015@pgim.cmb.ac.lk | M: +94775217777')}</h4>

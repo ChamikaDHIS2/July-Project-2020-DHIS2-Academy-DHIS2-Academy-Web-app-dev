@@ -12,7 +12,7 @@ const MyApp = () => (
     <BrowserRouter>
         <div className={styles.container}>
             <div className={styles.left}>
-            <img src="JPlogo.png" alt="" width="100%"/><br></br>
+            <img src="http://slchaem.lk/web-app/JPlogo.png" alt="" width="100%"/><br></br>
                 <Navigation/>
             </div>
 
