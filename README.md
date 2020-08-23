@@ -4,6 +4,8 @@ https://github.com/dhis2/academy-web-app-dev-2020
 
 Student name: Dr.Chamika Hasalanka Senanayake | senanayake.ch2015@pgim.cmb.ac.lk
 
+Developped for training purpose only
+
 Screenshots :
 
 <img src="http://www.slchaem.lk/web-app/1.png" alt=""/>
